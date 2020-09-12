@@ -1,0 +1,12 @@
+.input {
+    display: flex;
+    height: 5em;
+    flex: 1;
+    background-color: #5776E0;
+    color: white;
+    justify-content: flex-end;
+    padding: 0.7em;
+    font-weight: bolder;
+    font-size: 1.6em;
+    align-items: center;
+}
